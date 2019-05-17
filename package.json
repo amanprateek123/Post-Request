@@ -1,0 +1,24 @@
+{
+  "name": "post",
+  "version": "1.0.0",
+  "description": "post request",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanprateek123/Post-Request.git"
+  },
+  "author": "aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanprateek123/Post-Request/issues"
+  },
+  "homepage": "https://github.com/amanprateek123/Post-Request#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.0"
+  }
+}
